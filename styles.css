@@ -374,6 +374,10 @@ i {
   padding: 0 1rem;
 }
 
+.logo_footer {
+  width: 10rem;
+}
+
 .footer-icons {
   display: flex;
   justify-content: center;
