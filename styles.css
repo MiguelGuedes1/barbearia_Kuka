@@ -43,6 +43,11 @@ i {
     transform: translateY(-8px) scale(1.1);
   }
 }
+.header-logo img {
+  width: 18rem;
+  margin-top: 2.875rem;
+}
+
 .header-button {
   border: 1px solid #fff;
   padding: 0.5rem 1.3rem;
@@ -76,7 +81,7 @@ i {
     font-size: 1.8rem;
   }
   .header-logo img {
-    width: 10rem;
+    width: 13rem;
     margin-top: 2.875rem;
   }
   .header-button {
